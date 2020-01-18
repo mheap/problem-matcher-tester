@@ -1,3 +1,11 @@
+# Problem Matcher Tester
+
+> A live install of this project is running at https://problem-matcher.netlify.com
+
+Providers an interactive interface for testing Problem Matchers using [mheap/problem-matcher](https://github.com/mheap/problem-matcher).
+
+# Contributing
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
