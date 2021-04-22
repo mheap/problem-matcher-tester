@@ -2,7 +2,7 @@
 
 > A live install of this project is running at https://problem-matcher.netlify.com
 
-Providers an interactive interface for testing Problem Matchers using [mheap/problem-matcher](https://github.com/mheap/problem-matcher).
+Provides an interactive interface for testing Problem Matchers using [mheap/problem-matcher](https://github.com/mheap/problem-matcher).
 
 # Contributing
 
